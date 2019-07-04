@@ -1,10 +1,11 @@
 # BeCode Coaches Onboarding Passport
 
-Welcome to BeCode, where active learning is at the core of our methodology. That’s why our onboarding process is a series of actions YOU, our new colleague, will take. Some of them are fun, others are good practices that will spark your imagination on how to be the best coach you can be, and a lovely colleague to hang out with. 
+Welcome to BeCode, where active learning is at the core of our methodology. That’s why our onboarding process is a series of actions, or rather challenges, *YOU*, our new colleague, will take. Some of these challenges are fun, others are good practices that will spark your imagination on how to be the best coach you can be, and a lovely colleague to hang out with. 
 
-## 0. How does this work ?
-The Passport is basically a (long) list of challenges. Each describes the challenge and the Proof that the challenge has been met, allowing us to validate your challenge. You can do the challenges in any order of priority and whenever you find appropriate. Some are more urgent than others, of course… In this sense, the onboarding never stops : they are always new challenges.
-Meeting these challenges will make you grow into your position. As such, you will be granted Open Badges related to your coaching level, provided you can show the proofs. Since many proofs are rather ephemerous, please archive a copy of all proofs to a folder “My Passport” on your personal BeCode Google Drive, folder that you make sure it is “shared with” all@becode.org 
+## How does this work ?
+The Passport is basically a (long) list of challenges organized in Levels. Each challenge describes the required action and the Proof that the challenge has been met, allowing us to validate your challenge. You can do the challenges in any order of priority and whenever you find appropriate. Some are more urgent than others, of course… In this sense, the onboarding never stops : there are always new challenges, including those your undertake under your own initiative.
+
+Meeting these challenges will make you grow into your position. As such, you will be granted Open Badges related to your coaching level, provided you can show the proofs. Since many proofs are rather ephemerous, please archive a copy of all proofs to a repository called `My BeCode Passport`on your personal GitHub account, including any link, image and video assets. 
 
 
 ## Level 1 - "New kid on the block"
@@ -12,8 +13,11 @@ Meeting these challenges will make you grow into your position. As such, you wil
 * [ ] Get the [Level 1 badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/NN-Pmxe9SjmC3EiEXw8idA) !
 
 ## level 2 - "A good colleague"
-* [ ] Create a folder “My Passport” on your personal BeCode Google Drive, folder that you make sure it is “shared with” all@becode.org  
-*Proof: send an email with a link to your passport folder to the Head Coach*
+* [ ] Create a repository called `My BeCode Passport`on your personal GitHub account (you can fork this one). This repository  will include  any link, image and video assets proving your achievements, to be used as Evidences when you claim your badges on Badgr.io.   
+*Proof: send an email with a link to your repository to the Head Coach*
+
+* [ ]  Send an email to  the Head Coach asking to add you to BeCode Magic Team WhatsApp group.
+*Proof: you are included in the WhatsApp group*
 
 * [ ] Write an introduction email to the entire BeCode crew ( all@becode.org ) using your becode.org account. It needs to have at least one (static or animated) visual of you and your personal chinese (auto) portrait. 
 *Proof: a presentation email to all@becode.org*
@@ -137,7 +141,7 @@ Meeting these challenges will make you grow into your position. As such, you wil
 
 * [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/RVr5FR6BSfOOA21bLKTB8g) ! 
 
-## Level 4
+## Level 4 (NOT FINISHED)
 * [ ]  Contribute in a major way to BeCode's internal tools development
 *Proof: something you've developed is being used by all 6 campuses*
 
