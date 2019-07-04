@@ -83,74 +83,74 @@ Insert a portrait picture of you here
 * [ ]  Review and then grant at least 1 Open Badges to one of your learners.  
 *Proof: link to the generated assertion.*
 
-* [ ]  Present the BeCode Pedagogic Framework to your learners.  
+* [ ]  Present the BeCode Pedagogic Framework to your learners.   
 *Proof: a LinkedIn post written by one of your Juniors about this, with a picture of you in action*
 
-* [ ]  Create a Kahoot and use it with your learners
+* [ ]  Create a Kahoot and use it with your learners  
 *Proof: a LinkedIn post written by one of your Juniors about this, with a picture of you in action and a link to the Kahoot*
 
-* [ ]  Find an opportunity to motivate your learners to have a positive impact for the other companies on the campus (spontaneously help out with building cores shared with other companies, solve another company's problem ...)
+* [ ]  Find an opportunity to motivate your learners to have a positive impact for the other companies on the campus (spontaneously help out with building cores shared with other companies, solve another company's problem ...)  
 *Proof: a LinkedIn post written by you about this, with a picture of them in action, in which you express how it makes you feel*
 
-* [ ] Create your Startup's Watches folder in  [The Watch repository](https://github.com/becodeorg/The-Watch).
+* [ ] Create your Startup's Watches folder in  [The Watch repository](https://github.com/becodeorg/The-Watch).  
 *Proof: the folder*
 
 * [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/IIyb2HyKRHWGTxUBDVBG2g) ! 
 
 ## Level 3 - The Lead Coach
 
-* [ ]  Publish a post on LinkedIn for **each** learner of one Startup, as they are giving a public presentation, like a Tech Watch or a Workshop
+* [ ]  Publish a post on LinkedIn for **each** learner of one Startup, as they are giving a public presentation, like a Tech Watch or a Workshop  
 *Proof: the LinkedIn posts*
 
-* [ ]  Have each of your junior give at least 5 watches by the end of the training.
+* [ ]  Have each of your junior give at least 5 watches by the end of the training.  
 *Proof: link to your startup's folder in [The Watch repository](https://github.com/becodeorg/The-Watch), with the list of watches given by each junior.*
 
-* [ ]  Organize a team-building afternoon at the end of The Fields with your startup
+* [ ]  Organize a team-building afternoon at the end of The Fields with your startup  
 *Proof: a LinkedIn post written by you about this, with a picture of them in action, in which you express how it makes you feel*
 
-* [ ]  Give at least 10 sincere LinkedIn recommendations to any of your trainees upon finishing the training.
+* [ ]  Give at least 10 sincere LinkedIn recommendations to any of your trainees upon finishing the training.  
 *Proof: the LinkedIn recommendations*
 
-* [ ]  Review and then grant at least 1 Open Badges to 10 of your learners (that’s 100)
+* [ ]  Review and then grant at least 1 Open Badges to 10 of your learners (that’s 100)  
 *Proof: the assertions*
 
-* [ ] Plan your first Startup Pedagogic Timeline and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach.
+* [ ] Plan your first Startup Pedagogic Timeline and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach.  
 *Proof: An email to your Head Coach with the link to your Startup Pedagogic Timeline*
 
-* [ ] Plan the 10 first days of your first startup to the minute in a Google Docs file and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach. Make sure to read this first to get you up to speed.
+* [ ] Plan the 10 first days of your first startup to the minute in a Google Docs file and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach. Make sure to read this first to get you up to speed.  
 *Proof: An email from your Head Coach saying that (s)he validates the plan*
 
-* [ ] Introduce and encourage the [Solution Mindset](https://medium.com/@aplennevaux/the-solution-mindset-c07fa687f316) to your Juniors by providing real life examples taken from your personal story
+* [ ] Introduce and encourage the [Solution Mindset](https://medium.com/@aplennevaux/the-solution-mindset-c07fa687f316) to your Juniors by providing real life examples taken from your personal story  
 *Proof: some trace of a presentation introducing the Solution Mindset to your juniors*
 
-* [ ]  Be the Note taker for the team at a Coaches Day
+* [ ]  Be the Note taker for the team at a Coaches Day  
 *Proof: Add your notes to the [Coach Meeting Notes](https://docs.google.com/document/d/1GEWG7Jbcf8FvhMW9676zZ-lREJA8IB41-F-42zfkcRM/edit#heading=h.eod3n4ehftjg) document*
 
-* [ ]  Organize the Summer Pasture according to the plan in [this presentation about Summer Pastures](https://docs.google.com/presentation/d/14SVbW6-hbYAb9voHGat2P-2PaXwuaHad7DN6b6mfofk/edit)  
+* [ ]  Organize the Summer Pasture according to the plan in [this presentation about Summer Pastures](https://docs.google.com/presentation/d/14SVbW6-hbYAb9voHGat2P-2PaXwuaHad7DN6b6mfofk/edit)   
 *Proof: at least 5 LinkedIn  posts where you report about your Juniors giving workshops, each time with a picture of them presenting.*
 
-* [ ]  Have one of your learners help you learn a new technology.
+* [ ]  Have one of your learners help you learn a new technology.  
 *Proof: at least 1 LinkedIn post where you report about that thing you learned, thanks to one of your Juniors.*
 
-* [ ]  Be the Lead Coach of your first promotion for at least 2 full months
+* [ ]  Be the Lead Coach of your first promotion for at least 2 full months  
 *Proof: an Email to the Head Coach to make him or her acknowledge that fact.*
 
-* [ ]  Get 95% internships upon the last day of the Training
+* [ ]  Get 95% internships upon the last day of the Training  
 *Proof: an Email to the Head Coach to make him or her acknowledge that fact, with your EMO as CC to back the fact.*
 
-* [ ]  Contribute to BeCode's internal tools development
+* [ ]  Contribute to BeCode's internal tools development  
 *Proof: something you've developed is being used by at least 1 campus, validated by the Head Coach*
 
-* [ ]  Become the Buddy Coach of a new team member
+* [ ]  Become the Buddy Coach of a new team member  
 *Proof: Screen capture of a written evidence of the Head Coach assigning you as Buddy Coach to a new team member*
 
 * [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/RVr5FR6BSfOOA21bLKTB8g) ! 
 
 ## Level 4 (NOT FINISHED) - Senior Coach
-* [ ] Contribute in a major way to BeCode's internal tools development
+* [ ] Contribute in a major way to BeCode's internal tools development  
 *Proof: something you've developed is being used by all 6 campuses, validated by the Head Coach*
 
-* [ ] Review and then grant at least 10 Open Badges to 30 of your learners (that’s 300 assertions)
+* [ ] Review and then grant at least 10 Open Badges to 30 of your learners (that’s 300 assertions)  
 *Proof: the assertions*
 
 * [ ] Participate in a hackathon for juniors of other campuses
