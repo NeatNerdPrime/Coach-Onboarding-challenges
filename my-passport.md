@@ -133,6 +133,9 @@
 
 * [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/RVr5FR6BSfOOA21bLKTB8g) ! 
 
+* [ ]  Become the Buddy Coach of a new team member
+*Proof: Screen capture of a written evidence of the Head Coach assigning you as Buddy Coach to a new team member*
+
 ## Level 4 (NOT FINISHED)
 * [ ]  Contribute in a major way to BeCode's internal tools development
 *Proof: something you've developed is being used by all 6 campuses*
