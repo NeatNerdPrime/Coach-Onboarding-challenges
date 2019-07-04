@@ -90,6 +90,8 @@ Meeting these challenges will make you grow into your position. As such, you wil
 * [ ] Create your Startup's Watches folder in  [The Watch repository](https://github.com/becodeorg/The-Watch).
 *Proof: the folder*
 
+* [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/IIyb2HyKRHWGTxUBDVBG2g) ! 
+
 ## Level 3
 * [ ]  Publish a post on LinkedIn for each of your learners as they are giving a public presentation, like a Tech Watch or a Workshop
 *Proof: the LinkedIn posts*
@@ -133,9 +135,14 @@ Meeting these challenges will make you grow into your position. As such, you wil
 * [ ]  Contribute to BeCode's internal tools development
 *Proof: something you've developed is being used by at least 1 campus*
 
+* [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/RVr5FR6BSfOOA21bLKTB8g) ! 
+
 ## Level 4
 * [ ]  Contribute in a major way to BeCode's internal tools development
 *Proof: something you've developed is being used by all 6 campuses*
 
 * [ ]  Review and then grant at least 10 Open Badges to 30 of your learners (that’s 300 assertions)
 *Proof: the assertions*
+
+
+(more to come - WIP)
