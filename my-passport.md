@@ -15,8 +15,8 @@ Insert a portrait picture of you here
 
 ## level 2 - "The great colleague"
 
-* [ ]  Create your own Email signature in Gmail, based on the Head Coach's. Update all relevant links, including your favourite quote. (You can find some [here](https://thatsthespir.it/)).
-*Proof: you are included in the WhatsApp group*
+* [ ]  Create your own Email signature in Gmail, based on the Head Coach's. Update all relevant links, including your favourite quote. (You can find some [here](https://thatsthespir.it/)).  
+*Proof: your next email to the Head Coach has a properly formatted and correctly linked signature, with your personal favourite quote.*
 
 * [ ] Create a repository called `My BeCode Passport`on your personal GitHub account (you can fork this one). This repository  will include  any link, image and video assets proving your achievements, to be used as Evidences when you claim your badges on Badgr.io.   
 *Proof: send an email with a link to your repository to the Head Coach*
