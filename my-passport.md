@@ -1,5 +1,14 @@
 # {FIRSTNAME LASTNAME} Onboarding Passport
 
+## Personal information
+
+- Contractual starting date : __/__/20__
+- Date of birth: __/__/____  
+- LinkedIn public profile URL: 
+
+Insert a portrait picture of you here
+![]()
+
 ## Level 1 - "New kid on the block"
 * [x] Get Hired! You are reading this so... Checked! You should have received your badge. If not...  
 * [ ] Get the [Level 1 badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/NN-Pmxe9SjmC3EiEXw8idA) !
