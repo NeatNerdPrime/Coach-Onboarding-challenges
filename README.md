@@ -1,5 +1,7 @@
 # BeCode Coaches Onboarding Passport
 
+![](https://lh3.googleusercontent.com/Hame-3t5lkz2jRpwiEXfDt__IWe_f8WVBn8pgPMLGNYU1U1xTR40oImgPR_7O8D2DTjyMPLY2h6hCGmCoGTUBh12-ReYCGd7OTt4ASeKIGy2r3zAGehkFRi6p1iTav0omG_sCCCpGFhC0NSAyw9Brneex22L1prSxDGyxNnfyZR6JfxXRUiPINFcjjz5TeWYRb_xM_hjZmOkL7dwCl37PloWZB_9JoEquIVhGrVM6f_MSdtWiCHisjMuO-9Ar9oWTXC4v-ME3ETSBv0m3cqHVT0VEmYZ3TWM_Ym9MpX3_uoDyxSb5EDqiOwCXgWgTo3SMB1ep6ajWbg1iIga_CWu7E6rESOTGJoEB6AGDOfsMpreTq-kRsRl9ulONqNGlVj9iiQ-HEvtyilv47F41U7jkX115bPfLGlysj87rQo1t9OWj05jXFNZZ_uT_EOBBl6rovhSpNt13HMSvQCTIp9U-2ZNgQclpQ2rmQWqOZgw2d58dliBNRANYdnmMXfkCZ-PRhYpibWAtD81manaH_8kdiW4ceokwQfZnrE3jIEys6Wd_cqPsBdilqc9GEP2tGfccZDI3uXHl-DvPJAXyOfzrM2OKAVokrQV0JtMjXrFaScpJrauegNXLAdk8JqEoqkPs4aIx2lHbxqE0RV5GBBCk6eV4rNypKs=w627-h717-no)
+
 Welcome to BeCode, where active learning is at the core of our methodology. That’s why our onboarding process is a series of actions, or rather challenges, *YOU*, our new colleague, will take. Some of these challenges are fun, others are good practices that will spark your imagination on how to be the best coach you can be, and a lovely colleague to hang out with. 
 
 ## How does this work ?
