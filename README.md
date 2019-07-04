@@ -10,7 +10,7 @@ Meeting these challenges will make you grow into your position. As such, you wil
 ## Ready ?
 
 - Fork this repository
-- Rename `the my-passport.md` file to `firstname-lastname-passport.md`
+- Rename the `my-passport.md` file to `firstname-lastname-passport.md`
 - Update, commit and push that file any time you finish a challenge (not forgetting the Evidence assets / proofs)
 - Update your fork regularly (here is [a good tutorial](https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381) on how to update a forked repository to the base repository)
 
