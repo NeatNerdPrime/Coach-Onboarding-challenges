@@ -3,7 +3,7 @@
 ## Personal information
 
 - LinkedIn public profile URL: 
-- Insert a portrait picture of you here
+- Insert a portrait picture of you here  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg/260px-Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg)
 - Contractual starting date at BeCode : `__/__/20__`
 - Date of birth: `__/__/____`  
