@@ -24,7 +24,7 @@ Proof: an email from the Head Coach putting you and your Buddy Coach in contact
 * [ ]  Prepare a personal gift to your buddy Coach and give it to her/him.
 Proof: a picture of the Buddy Coach with the gift 
 
-[ ] At your first Coaches Day, sing a song in front of the other trainers (and the Head Coach)
+* [ ] At your first Coaches Day, sing a song in front of the other trainers (and the Head Coach)
 Proof: a video recording
 
 * [ ] At your first Team Day, Give a hug to each and every team member
