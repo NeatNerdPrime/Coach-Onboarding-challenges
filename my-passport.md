@@ -7,7 +7,7 @@
 - LinkedIn public profile URL: 
 
 Insert a portrait picture of you here
-![]()
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg/260px-Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg)
 
 ## Level 1 - "New kid on the block"
 * [x] Get Hired! You are reading this so... Checked! You should have received your badge. If not...  
