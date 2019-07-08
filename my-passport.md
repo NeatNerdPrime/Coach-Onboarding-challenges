@@ -46,7 +46,7 @@
 * [ ] Review your GitHub account, making sure it can be used as a reference of good practice for your learners (Updated profile picture, First name and last name, etc)
 *Proof: send an email to your Head Coach for review*
 
-* [ ] Have one of your colleagues add you to the BeCodeOrg GitHub organisation, including the BeCode and BeCode/Coaches teams. Then add your name to the Syllabus BeCodus main readme file.
+* [ ] Have one of your colleagues add you to the BeCodeOrg GitHub organisation, including the BeCode and BeCode/Coaches teams. Then find a repository called "Syllabus BeCodus", then add your name to its main readme file.
 *Proof: Your name is visible on the Syllabus BeCodus main readme file, with a link to your GitHub account.*
 
 * [ ] Review your Ryver account, making sure it can be used as a reference of good professional practice for your learners (Updated profile picture, First name and last name (no funny avatar), etc)
