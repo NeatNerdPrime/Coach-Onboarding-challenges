@@ -3,16 +3,16 @@
 ## Personal information
 
 - LinkedIn public profile URL: 
-- Insert a portrait picture of you here  
+- (Insert a portrait picture of you here)  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg/260px-Robert_Baden-Powell_in_South_Africa%2C_1896_%282%29.jpg)
 - Contractual starting date at BeCode : `__/__/20__`
 - Date of birth: `__/__/____`  
 - Favourite food: 
-- Best personal memory: 
+- Best personal professional memory: 
 
 ## Level 1 - "The New kid on the block"
 * [x] Get Hired! You are reading this so... Checked! You should have received your badge. If not...  
-* [ ] Get the [Level 1 badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/NN-Pmxe9SjmC3EiEXw8idA) !
+* [ ] Get the [Level 1 badge](https://badgr.io/issuer/issuers/GM2nrmVDS7mTHE-UWdu39Q/badges/throlgAnQzOtHxJpYId3hw) !
 
 ## level 2 - "The great colleague"
 
@@ -100,7 +100,7 @@
 * [ ] Create your Startup's Watches folder in  [The Watch repository](https://github.com/becodeorg/The-Watch).  
 *Proof: the folder*
 
-* [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/IIyb2HyKRHWGTxUBDVBG2g) ! 
+* [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Level 2 Badge](https://badgr.io/issuer/issuers/GM2nrmVDS7mTHE-UWdu39Q/badges/jnRajgUbStOnVnQ_Haelsw) ! 
 
 ## Level 3 - The Lead Coach
 
@@ -149,7 +149,7 @@
 * [ ]  Become the Buddy Coach of a new team member  
 *Proof: Screen capture of a written evidence of the Head Coach assigning you as Buddy Coach to a new team member*
 
-* [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Badge](https://badgr.io/issuer/issuers/U1fM4KzWQZuXnpFXwG1gXw/badges/RVr5FR6BSfOOA21bLKTB8g) ! 
+* [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Level 3 Badge](https://badgr.io/issuer/issuers/GM2nrmVDS7mTHE-UWdu39Q/badges/_QaZ8TBWQYa07MORJQ-BBA) ! 
 
 ## Level 4 (NOT FINISHED) - Senior Coach
 * [ ] Contribute in a major way to BeCode's internal tools development  
