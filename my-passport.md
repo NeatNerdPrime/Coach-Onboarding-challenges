@@ -100,6 +100,9 @@
 * [ ] Create your Startup's Watches folder in  [The Watch repository](https://github.com/becodeorg/The-Watch).  
 *Proof: the folder*
 
+* [ ] Suggest one challenge to be added to the Level 2 Challenge to the Head Coach
+*Proof: an email to your Head Coach with a funny or useful (or both) challenge to be added to Level 2.*
+
 * [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Level 2 Badge](https://badgr.io/issuer/issuers/GM2nrmVDS7mTHE-UWdu39Q/badges/jnRajgUbStOnVnQ_Haelsw) ! 
 
 ## Level 3 - The Lead Coach
@@ -149,6 +152,9 @@
 * [ ]  Become the Buddy Coach of a new team member  
 *Proof: Screen capture of a written evidence of the Head Coach assigning you as Buddy Coach to a new team member*
 
+* [ ] Suggest one challenge to be added to the Level 3 Challenge to the Head Coach
+*Proof: an email to your Head Coach with a funny or useful (or both) challenge to be added to Level 3.*
+
 * [ ] Done ? Produce a markdown document with a link to each Challenge's proof on your own GitHub account, and then Claim [The Level 3 Badge](https://badgr.io/issuer/issuers/GM2nrmVDS7mTHE-UWdu39Q/badges/_QaZ8TBWQYa07MORJQ-BBA) ! 
 
 ## Level 4 (NOT FINISHED) - Senior Coach
@@ -178,6 +184,10 @@
 * [ ] Spend an entire work day assisting Karen (our CEO), Assist her in a pre-sales meeting, providing her with technical expertise
 * [ ] Present BeCode at a business event
 * [ ] Send a [Kitsch holographic postcard](https://www.youtube.com/watch?v=N8tYpsuGEIM) to Tom Crohin at BeCode Brussels.
+
+* [ ] Suggest one challenge to be added to the Level 4 Challenge to the Head Coach
+*Proof: an email to your Head Coach with a funny or useful (or both) challenge to be added to Level 4.*
+
 
 (more to come - WIP)
 
