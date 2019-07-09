@@ -122,7 +122,7 @@
 * [ ] Plan your first Startup Pedagogic Timeline and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach.  
 *Proof: An email to your Head Coach with the link to your Startup Pedagogic Timeline*
 
-* [ ] Plan the 10 first days of your first startup to the minute in a Google Docs file and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach. Make sure to read this first to get you up to speed.  
+* [ ] Plan the 10 first days of your first startup to the minute in a Google Docs file and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach. Make sure to [read this first](https://docs.google.com/document/d/17lEEyuNHS7VXBU-ZXa1FjUvr0I_XmZpAw0wnIvricJg/edit#heading=h.f1isq764mij2) to get you up to speed.  
 *Proof: An email from your Head Coach saying that (s)he validates the plan*
 
 * [ ] Introduce and encourage the [Solution Mindset](https://medium.com/@aplennevaux/the-solution-mindset-c07fa687f316) to your Juniors by providing real life examples taken from your personal story  
