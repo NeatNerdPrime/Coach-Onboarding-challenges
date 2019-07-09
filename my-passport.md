@@ -122,7 +122,7 @@
 * [ ]  Review and then grant at least 1 Open Badges to 10 of your learners (that’s 100)  
 *Proof: the assertions*
 
-* [ ] Plan your first Startup Pedagogic Timeline (based on [this template](https://docs.google.com/drawings/d/1htJYgW6fUmak_PTI_aB4Ic01c6wjQc3podnjG0XV3T4/edit)) and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach.  
+* [ ] Plan your first Startup Pedagogic Timeline (based on [this template](https://docs.google.com/drawings/d/1htJYgW6fUmak_PTI_aB4Ic01c6wjQc3podnjG0XV3T4/edit)) and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach.  You can find real life examples from the other startups on the [Google Drive](https://drive.google.com/drive/u/0/folders/1xvm8e8vWEYEMebJs54iUqOXLThkA9kHY).
 *Proof: An email from your Head Coach saying that (s)he validates your Startup Pedagogic Timeline*
 
 * [ ] Plan the 10 first days of your first startup to the minute in a Google Docs file and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach. Make sure to [read this first](https://docs.google.com/document/d/17lEEyuNHS7VXBU-ZXa1FjUvr0I_XmZpAw0wnIvricJg/edit#heading=h.f1isq764mij2) to get you up to speed.  
