@@ -31,12 +31,6 @@
 * [ ]  Have the Head Coach assign you a “buddy coach” : your goto colleague for first-help and guidance.
 *Proof: an email from the Head Coach putting you and your Buddy Coach in contact*
 
-* [ ]  Prepare a personal gift to your buddy Coach and give it to her/him.
-*Proof: a picture of the Buddy Coach with the gift*
-
-* [ ] At your first Coaches Day, sing a song in front of the other trainers (and the Head Coach)
-*Proof: a video recording*
-
 * [ ] At your first Team Day, Give a hug to each and every team member
 *Proof: no needed proof, we will all remember it!*
 
@@ -52,14 +46,8 @@
 * [ ] Review your Ryver account, making sure it can be used as a reference of good professional practice for your learners (Updated profile picture, First name and last name (no funny avatar), etc)
 *Proof: send an email to your Head Coach for review*
 
-* [ ] Beat your buddy Coach in a ping pong game. Make sure there is a witness to certify the deed.
-*Proof: a video/gif of you winning the match point*
-
 * [ ] Have a colleague explain you how to use the Promo Boilerplate to create your future Startup repository.
 *Proof: An email to your Head Coach with the link to your first startup’s GitHub repository, asking for feedback*
-
-* [ ] Share a ride with your colleagues to go to your job.
-*Proof: Group Selfie shared on WhatsApp to any one of our groups*
 
 * [ ] Give a 10-minute presentation in English at a Coaches Day
 *Proof: Group Selfie shared on WhatsApp to any one of our groups*
@@ -128,7 +116,7 @@
 * [ ] Plan the 10 first days of your first startup to the minute in a Google Docs file and have it reviewed by your buddy coach, then validated by your supervisor: the Head Coach. Make sure to [read this first](https://docs.google.com/document/d/17lEEyuNHS7VXBU-ZXa1FjUvr0I_XmZpAw0wnIvricJg/edit#heading=h.f1isq764mij2) to get you up to speed.  
 *Proof: An email from your Head Coach saying that (s)he validates the plan*
 
-* [ ] Introduce and encourage the [Solution Mindset](https://medium.com/@aplennevaux/the-solution-mindset-c07fa687f316) to your Juniors by providing real life examples taken from your personal story  
+* [ ] Introduce and encourage the [Solution Mindset](https://medium.com/@pixeline/the-solution-mindset-e94e8bb50643) to your Juniors by providing real life examples taken from your personal story  
 *Proof: some trace of a presentation introducing the Solution Mindset to your juniors*
 
 * [ ]  Be the Note taker for the team at a Coaches Day  
@@ -140,7 +128,7 @@
 * [ ]  Have one of your learners help you learn a new technology.  
 *Proof: at least 1 LinkedIn post where you report about that thing you learned, thanks to one of your Juniors.*
 
-* [ ]  Be the Lead Coach of your first promotion for at least 2 full months  
+* [ ]  Be the Lead Coach of a promotion for at least 2 full months  
 *Proof: an Email to the Head Coach to make him or her acknowledge that fact.*
 
 * [ ]  Get 95% internships upon the last day of the Training  
@@ -178,13 +166,11 @@
 * [ ] Write about a great moment you had at BeCode on Twitter or Facebook
 * [ ] Participate in the Selection process of another Startup in another Campus
 * [ ] Participate in a Marketing event (a Facebook Live, …)
-* [ ] Become the buddy of a new trainer
 * [ ] Send a written compliment to 3 BeCode team members on the 1st of March (International World Compliment Day)
 * [ ] Tell your EMO that (s)he is not THAT old
-* [ ] Spend an entire work day assisting Karen (our CEO), Assist her in a pre-sales meeting, providing her with technical expertise
+* [ ] Spend half a day assisting Karen (our CEO), assist her in a pre-sales meeting, providing her with technical expertise and providing her with Diet Coke.
 * [ ] Present BeCode at a business event
-* [ ] Send a [Kitsch holographic postcard](https://www.youtube.com/watch?v=N8tYpsuGEIM) to Tom Crohin at BeCode Brussels.
-
+* [ ] Send a [Kitsch holographic postcard](https://www.youtube.com/watch?v=N8tYpsuGEIM) to Tom Crohin at BeCode Brussels.  
 * [ ] Suggest one challenge to be added to the Level 4 Challenge to the Head Coach
 *Proof: an email to your Head Coach with a funny or useful (or both) challenge to be added to Level 4.*
 
